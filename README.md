@@ -1,3 +1,6 @@
+# Note
+Credit to the original author (https://github.com/Timovski/CSVPaste) - I've just forked this repo to play with SSMS extensions. 
+
 # CSV Paste
 A simple SQL Server Management Studio (SSMS) extension for pasting data copied from the Results window as formatted comma-separated values into another query’s IN clause.
 
